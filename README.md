@@ -110,7 +110,7 @@ All assigned variables are also available as Javascript variables in the client 
 
 ##### .tpl files
 
-When including files with .tpl, view module will remove tags and line breaks. This is useful when you need to inject HTML in to javascript code etc.
+When including files with .tpl, view module will remove tabs and line breaks. This is useful when you need to inject HTML in to javascript code etc.
 
 Example:
 
